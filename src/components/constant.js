@@ -1,9 +1,9 @@
 
 export const TURNS = {
-    X: './public/assets/X.png',
-    O: './public/assets/O.png',
-    Xo: './public/assets/Xo.png',
-    Ox: './public/assets/Ox.png'
+    X: '../assets/X.png',
+    O: '../assets/O.png',
+    Xo: '../assets/Xo.png',
+    Ox: '../assets/Ox.png'
 }
 
 

@@ -137,7 +137,7 @@ function App() {
                 <h1>Tic Tac Toe</h1>
                 <div className="title-span">
                     {mode ? (
-                        <img className="title-image" src="./public/assets/infinity.png" alt="" />
+                        <img className="title-image" src="../assets/infinity.png" alt="" />
                     ) : (
                         <span className="title-classic">Classic</span>
                     )}
